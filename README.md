@@ -1,4 +1,4 @@
 loool
-site: https://nsetbruh.github.io/nsetamino/
+site: none
 # nset
 
